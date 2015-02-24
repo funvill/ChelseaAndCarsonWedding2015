@@ -13,7 +13,7 @@
    viewBox="0 0 594 792"
    preserveAspectRatio="xMidYMid meet"
    id="svg2"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="invitation.svg">
   <defs
      id="defs12" />
@@ -32,9 +32,9 @@
      showgrid="false"
      units="in"
      width="8.5in"
-     inkscape:zoom="1"
-     inkscape:cx="684.60613"
-     inkscape:cy="714.24732"
+     inkscape:zoom="0.5"
+     inkscape:cx="649.69408"
+     inkscape:cy="686.55597"
      inkscape:current-layer="g6-3"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -593,31 +593,35 @@ Created by potrace 1.11, written by Peter Selinger 2001-2013
          sodipodi:nodetypes="cccccssc" />
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="917"
-         y="102"
+         style="font-size:320px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-2678"
+         y="-3666"
          id="text3313"
          sodipodi:linespacing="125%"
-         transform="matrix(8,0,0,-8,-2958,4514)"><tspan
+         transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            id="tspan3315"
-           x="917"
-           y="102">100 speed</tspan><tspan
+           x="-2678"
+           y="-3666">100 speed</tspan><tspan
            sodipodi:role="line"
-           x="917"
-           y="152"
+           x="-2678"
+           y="-3266"
            id="tspan3317">10 power</tspan><tspan
            sodipodi:role="line"
-           x="917"
-           y="202"
+           x="-2678"
+           y="-2866"
            id="tspan3319">15% current </tspan><tspan
            sodipodi:role="line"
-           x="917"
-           y="252"
+           x="-2678"
+           y="-2466"
            id="tspan3321">6 Min a full sheet</tspan><tspan
            sodipodi:role="line"
-           x="917"
-           y="302"
+           x="-2678"
+           y="-2066"
+           id="tspan3089">80 sheets</tspan><tspan
+           sodipodi:role="line"
+           x="-2678"
+           y="-1666"
            id="tspan3323" /></text>
     </g>
   </g>
